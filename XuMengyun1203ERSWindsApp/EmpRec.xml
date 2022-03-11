@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="hz-gb-2312" ?>
+<EmpRecordsData>
+	<Ecode Id="E00l"EmployeeName="Michael Preey">
+		<EmpDetails DateOfJoin="02-02-1999" Gread="A" Salary="1750"/>
+	</Ecode>
+		<Ecode Id="E002"EmployeeName="Michael Preey">
+			<EmpDetails DateOfJoin="03-22-1999" Gread="B" Salary="2500"/>
+		</Ecode>
+			<Ecode Id="E003"EmployeeName="Michael Preey">
+				<EmpDetails DateOfJoin="04-18-1999" Gread="A" Salary="1000"/>
+			</Ecode>
+	<Ecode Id="E004"EmployeeName="Michael Preey">
+		<EmpDetails DateOfJoin="04-27-1999" Gread="E" Salary="7000"/>
+	</Ecode>
+	<Ecode Id="E005"EmployeeName="Michael Preey">
+		<EmpDetails DateOfJoin="02-02-2020" Gread="E" Salary="1000000"/>
+	</Ecode>
+</EmpRecordsData>
